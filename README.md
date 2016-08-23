@@ -4,7 +4,8 @@ Disaster Girl Error Pages
 I made these for my nginx servers.  Here is how I use them:
 
 ```bash
-/usr/share/nginx/html
+mkdir -p /usr/share/nginx/html/error-pages
+cd /usr/share/nginx/html/error-pages
 git clone https://github.com/manifestinteractive/disaster-girl-error-pages.git .
 ```
 
@@ -18,23 +19,23 @@ error_page 503 /error_503.html;
 error_page 504 /error_504.html;
 
 location = /custom_403.html {
-        root /usr/share/nginx/html;
+        root /usr/share/nginx/html/error-pages;
         internal;
 }
 location = /custom_404.html {
-        root /usr/share/nginx/html;
+        root /usr/share/nginx/html/error-pages;
         internal;
 }
 location = /custom_500.html {
-        root /usr/share/nginx/html;
+        root /usr/share/nginx/html/error-pages;
         internal;
 }
 location = /custom_503.html {
-        root /usr/share/nginx/html;
+        root /usr/share/nginx/html/error-pages;
         internal;
 }
 location = /custom_504.html {
-        root /usr/share/nginx/html;
+        root /usr/share/nginx/html/error-pages;
         internal;
 }
 ```
