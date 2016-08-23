@@ -3,7 +3,7 @@ Disaster Girl Error Pages
 
 Everyone Loves Disaster Girl... so why not use that chaotic smile to let your users know your site is broken ?
 
-![Disaster Girl Error Pages](https://s3.amazonaws.com/disaster-girl/danger-girl-screenshot.jpg "Disaster Girl Error Pages")
+![Disaster Girl Error Pages](https://s3.amazonaws.com/disaster-girl/distaster-girl-error-page.gif "Disaster Girl Error Pages")
 
 
 Demos:
