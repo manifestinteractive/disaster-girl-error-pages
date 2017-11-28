@@ -5,6 +5,7 @@ Everyone Loves Disaster Girl... so why not use that chaotic smile to let your us
 
 ![Disaster Girl Error Pages](https://s3.amazonaws.com/disaster-girl/distaster-girl-error-page.gif "Disaster Girl Error Pages")
 
+[![Buy Me Coffee](https://peterschmalfeldt.com/buy-me-coffee.png)](https://www.paypal.me/manifestinteractive)
 
 Demos:
 ---
